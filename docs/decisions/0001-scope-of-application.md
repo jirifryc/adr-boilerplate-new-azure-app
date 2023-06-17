@@ -5,8 +5,10 @@
 
 ## Considered Options
 
+* Prototyping
 * Single region, single application
 * Multiple regions, single application
+* Single region, multiple applications
 * Multiple regions, multiple applications
 
 ## Decision Outcome
